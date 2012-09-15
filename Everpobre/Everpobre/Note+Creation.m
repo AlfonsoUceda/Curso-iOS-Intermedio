@@ -14,6 +14,7 @@
 {
     Note *note = [NSEntityDescription insertNewObjectForEntityForName:@"Note" inManagedObjectContext:context];
     note.creationDate = [NSDate date];
+    note.modificationDate = [NSDate date];
     
     return note;
 }

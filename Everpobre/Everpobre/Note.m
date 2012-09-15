@@ -15,5 +15,6 @@
 @dynamic title;
 @dynamic creationDate;
 @dynamic photoData;
+@dynamic modificationDate;
 
 @end

@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CoreDataTableViewController.h"
 
-@interface AUNotesViewController : UITableViewController
+@interface AUNotesViewController : CoreDataTableViewController
+
+- (id)initWithStyle:(UITableViewStyle)style context:(NSManagedObjectContext*)context;
 
 @end
