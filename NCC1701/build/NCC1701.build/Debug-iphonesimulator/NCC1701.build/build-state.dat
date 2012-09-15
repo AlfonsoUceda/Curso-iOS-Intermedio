@@ -1,0 +1,328 @@
+TNCC1701
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/Info.plist NCC1701/NCC1701-Info.plist
+cProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-anzvviaolfqpvfazgcydhkpweusq/NCC1701-Prefix.pch.pth NCC1701/NCC1701-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUViewController.o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/main.o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUAppDelegate.o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/NCC1701 normal i386
+cGenerateDSYMFile /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app.dSYM /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/NCC1701
+cCompileXIB /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/en.lproj/AUViewController.xib
+cCpResource NCC1701/ncc-1701.png build/Debug-iphonesimulator/NCC1701.app/ncc-1701.png
+cCopyStringsFile /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/en.lproj/InfoPlist.strings NCC1701/en.lproj/InfoPlist.strings
+cCpResource NCC1701/space_field.jpeg build/Debug-iphonesimulator/NCC1701.app/space_field.jpeg
+cTouch /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c0000000050283DC20000000000000110
+t1344814530
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FD658260000000000244490
+t1339447334
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FD658270000000000353830
+t1339447335
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FD6582A0000000000905E40
+t1339447338
+s9461312
+
+N/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000504A97620000000000228FD0
+t1347065698
+s2265040
+
+N/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000504A977000000000003DCEF0
+t1347065712
+s4050672
+
+N/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000504A979E0000000000AB3D60
+t1347065758
+s11222368
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUAppDelegate.h
+c0000000050534C930000000000000178
+t1347636371
+s376
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUAppDelegate.m
+c0000000050534C93000000000000090F
+t1347636371
+s2319
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUViewController.h
+c0000000050534CE70000000000000158
+t1347636455
+s344
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUViewController.m
+c0000000050536055000000000000113D
+t1347641429
+s4413
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/NCC1701-Prefix.pch
+c0000000050534C93000000000000013D
+t1347636371
+s317
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/en.lproj/AUViewController.xib
+c0000000050534ECE00000000000023FD
+t1347636942
+s9213
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/en.lproj/InfoPlist.strings
+c0000000050534C93000000000000002D
+t1347636371
+s45
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/main.m
+c0000000050534C930000000000000158
+t1347636371
+s344
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/ncc-1701.png
+c0000000050534D6F0000000000001E81
+t1347636591
+s7809
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/space_field.jpeg
+c0000000050534D30000000000000EBB0
+t1347636528
+s60336
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app
+t1347641167
+s272
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app.dSYM
+t1347641167
+s102
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/Info.plist
+t1347640570
+s795
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/NCC1701
+t1347641167
+s40828
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/PkgInfo
+t1347640570
+s8
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/en.lproj/AUViewController.nib
+t1347640570
+s1321
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/en.lproj/InfoPlist.strings
+t1347636728
+s42
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/ncc-1701.png
+t1347636728
+s7809
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/space_field.jpeg
+t1347636728
+s60336
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUAppDelegate.o
+t1347640570
+s89992
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUViewController.o
+t1347641167
+s80736
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/NCC1701.LinkFileList
+c0000000050534DF8000000000000019E
+t1347636728
+s414
+
+N/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/main.o
+t1347640570
+s3324
+
+N/var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-anzvviaolfqpvfazgcydhkpweusq/NCC1701-Prefix.pch.pth
+t1347636728
+s4095764
+
+N/var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-gvpyayjnaentaufyytfhcorsdjwk/NCC1701-Prefix.pch.pth
+t1347640314
+s4864124
+
+NNCC1701/NCC1701-Info.plist
+c0000000050534C930000000000000493
+t1347636371
+s1171
+
+CBuild AST from /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUAppDelegate.m
+r0
+
+CBuild AST from /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUViewController.m
+r0
+
+CBuild AST from /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesce338ed69703b641^27698ed69703b641^---0#1#0#--18"Check dependencies36"F4D96266-9E78-4156-88BB-DE4296666455-
+
+CCompileC build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUAppDelegate.o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369333315.349796
+e369333315.495227
+r1
+xCompileC
+xbuild/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUAppDelegate.o
+x/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUAppDelegate.mf5be59439403b641^ebc77e439403b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUAppDelegate.m0000000000000000^3504"CompileC build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUAppDelegate.o NCC1701/AUAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-generated-files.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-own-target-headers.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-all-target-headers.hmap -iquote /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-project-headers.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/DerivedSources/i386 -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/DerivedSources -F/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-anzvviaolfqpvfazgcydhkpweusq/NCC1701-Prefix.pch -MMD -MT dependencies -MF /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUAppDelegate.d --serialize-diagnostics /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUAppDelegate.dia -c /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUAppDelegate.m -o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUAppDelegate.o36"95155111-7B76-40A2-B9F9-1F3A1CA1B805-
+
+CCompileC build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUViewController.o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369334230.580429
+e369334230.653857
+r1
+xCompileC
+xbuild/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUViewController.o
+x/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUViewController.m03b194d69703b641^6f63a7d69703b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUViewController.m0000000000000000^3522"CompileC build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUViewController.o NCC1701/AUViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-generated-files.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-own-target-headers.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-all-target-headers.hmap -iquote /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-project-headers.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/DerivedSources/i386 -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/DerivedSources -F/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-anzvviaolfqpvfazgcydhkpweusq/NCC1701-Prefix.pch -MMD -MT dependencies -MF /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUViewController.d --serialize-diagnostics /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUViewController.dia -c /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/AUViewController.m -o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/AUViewController.o36"4849C6B2-AB6D-4B5A-95E1-E49DDA4ADFF9-
+
+CCompileC build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/main.o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369333315.349801
+e369333315.394940
+r1
+xCompileC
+xbuild/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/main.o
+x/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/main.m4dbe59439403b641^0d1b65439403b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/main.m0000000000000000^3450"CompileC build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/main.o NCC1701/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-generated-files.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-own-target-headers.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-all-target-headers.hmap -iquote /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-project-headers.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/DerivedSources/i386 -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/DerivedSources -F/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-anzvviaolfqpvfazgcydhkpweusq/NCC1701-Prefix.pch -MMD -MT dependencies -MF /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/main.dia -c /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/main.m -o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/main.o36"A6FF9E97-E58B-4FD4-8D55-75B01752D0F9-
+
+CCompileXIB /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/en.lproj/AUViewController.xib
+s369333315.591444
+e369333315.628468
+r1
+xCompileXIB
+x/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/en.lproj/AUViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/en.lproj/AUViewController.xib527d97439403b641^bb0aa1439403b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/en.lproj/AUViewController.xib0000000000000000^947"CompileXIB NCC1701/en.lproj/AUViewController.xib    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/en.lproj/AUViewController.nib /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/en.lproj/AUViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"92D1CF6B-C621-486A-ABC8-620D818486A3-
+
+CCopyStringsFile /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/en.lproj/InfoPlist.strings NCC1701/en.lproj/InfoPlist.strings
+s369329528.932564
+e369329528.945930
+r1
+xCopyStringsFile
+x/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/en.lproj/InfoPlist.strings
+xNCC1701/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy NCC1701/en.lproj/InfoPlist.stringsc0cdee788503b641^912af2788503b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/en.lproj/InfoPlist.strings0000000000000000^593"CopyStringsFile build/Debug-iphonesimulator/NCC1701.app/en.lproj/InfoPlist.strings NCC1701/en.lproj/InfoPlist.strings    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/en.lproj -- NCC1701/en.lproj/InfoPlist.strings36"02E3FDED-CC64-4DAE-96C6-26A4DE1E9AB5-
+
+CCpResource NCC1701/ncc-1701.png build/Debug-iphonesimulator/NCC1701.app/ncc-1701.png
+s369329528.932584
+e369329528.937356
+r1
+xCpResource
+xNCC1701/ncc-1701.png
+xbuild/Debug-iphonesimulator/NCC1701.app/ncc-1701.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/NCC1701.app/ncc-1701.png31cfee788503b641^e4f6ef788503b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/ncc-1701.png000000000080d041^604"CpResource NCC1701/ncc-1701.png build/Debug-iphonesimulator/NCC1701.app/ncc-1701.png    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/ncc-1701.png /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app36"ECCF4798-8525-4EF6-8D2A-23D8343AD5D2-
+
+CCpResource NCC1701/space_field.jpeg build/Debug-iphonesimulator/NCC1701.app/space_field.jpeg
+s369329528.932793
+e369329528.938379
+r1
+xCpResource
+xNCC1701/space_field.jpeg
+xbuild/Debug-iphonesimulator/NCC1701.app/space_field.jpeg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/NCC1701.app/space_field.jpegf1d9ee788503b641^213af0788503b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/space_field.jpeg000000000080d041^616"CpResource NCC1701/space_field.jpeg build/Debug-iphonesimulator/NCC1701.app/space_field.jpeg    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/space_field.jpeg /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app36"9A193AD3-CC16-481F-A182-E93887A1CC74-
+
+CGenerateDSYMFile /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app.dSYM /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/NCC1701
+s369334230.690176
+e369334230.709677
+r1
+xGenerateDSYMFile
+x/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app.dSYM
+x/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/NCC1701
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Generating /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app.dSYM06bcb0d69703b641^fbadb5d69703b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app.dSYM/0000000000000000^652"GenerateDSYMFile build/Debug-iphonesimulator/NCC1701.app.dSYM build/Debug-iphonesimulator/NCC1701.app/NCC1701    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/NCC1701 -o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app.dSYM36"7D5CBC07-4699-43CF-A324-9E18BCED53AA-
+
+CLd /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/NCC1701 normal i386
+s369334230.659990
+e369334230.683232
+r1
+xLd
+x/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/NCC1701
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Link /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/NCC17014606a9d69703b641^47e9aed69703b641^---0#0#0#--1226"Ld build/Debug-iphonesimulator/NCC1701.app/NCC1701 normal i386    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator -F/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator -filelist /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/Objects-normal/i386/NCC1701.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/NCC170136"4BE4C03D-9AB7-4054-BCDA-1D8149333CBE-
+
+CProcessInfoPlistFile /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/Info.plist NCC1701/NCC1701-Info.plist
+s369333315.316371
+e369333315.333048
+r1
+xProcessInfoPlistFile
+x/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/Info.plist
+xNCC1701/NCC1701-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process NCC1701/NCC1701-Info.plist757351439403b641^935155439403b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/NCC1701-Info.plist0000000000000000^677"ProcessInfoPlistFile build/Debug-iphonesimulator/NCC1701.app/Info.plist NCC1701/NCC1701-Info.plist    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NCC1701/NCC1701-Info.plist -genpkginfo /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app/Info.plist36"50BE35F3-D1D1-459F-B0DA-C5F1CAA78D3F-
+
+CProcessPCH /Users/ferrarialobestia/Library/Developer/Xcode/DerivedData/NCC1701-fzdorqhykcwinibhtchzqpbxttkg/Index/PrecompiledHeaders/NCC1701-Prefix-euqmbtavorbdkdckkilkbwrsrsfn_ast/NCC1701-Prefix.pch.pth NCC1701/NCC1701-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ferrarialobestia/Library/Developer/Xcode/DerivedData/NCC1701-fzdorqhykcwinibhtchzqpbxttkg/Index/PrecompiledHeaders/NCC1701-Prefix-fsmnssvszftgxhcfvdjesegfzill_ast/NCC1701-Prefix.pch.pth NCC1701/NCC1701-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-anzvviaolfqpvfazgcydhkpweusq/NCC1701-Prefix.pch.pth NCC1701/NCC1701-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369329528.604310
+e369329528.802843
+r1
+xProcessPCH
+x/var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-anzvviaolfqpvfazgcydhkpweusq/NCC1701-Prefix.pch.pth
+xNCC1701/NCC1701-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile NCC1701/NCC1701-Prefix.pch67d29a788503b641^0e87cd788503b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/NCC1701-Prefix.pch0000000000000000^3481"ProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-anzvviaolfqpvfazgcydhkpweusq/NCC1701-Prefix.pch.pth NCC1701/NCC1701-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-generated-files.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-own-target-headers.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-all-target-headers.hmap -iquote /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-project-headers.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/DerivedSources/i386 -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/DerivedSources -F/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-anzvviaolfqpvfazgcydhkpweusq/NCC1701-Prefix.pch.dia -c /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/NCC1701-Prefix.pch -o /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-anzvviaolfqpvfazgcydhkpweusq/NCC1701-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-anzvviaolfqpvfazgcydhkpweusq/NCC1701-Prefix.pch.d36"76B5F1E1-1DF2-4CA8-93E1-A70FE8B2DD5B-
+
+CProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-gvpyayjnaentaufyytfhcorsdjwk/NCC1701-Prefix.pch.pth NCC1701/NCC1701-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369333112.458843
+e369333114.103050
+r1
+xProcessPCH
+x/var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-gvpyayjnaentaufyytfhcorsdjwk/NCC1701-Prefix.pch.pth
+xNCC1701/NCC1701-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile NCC1701/NCC1701-Prefix.pchee9377789303b641^e0651a7a9303b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/NCC1701-Prefix.pch0000000000000000^3770"ProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-gvpyayjnaentaufyytfhcorsdjwk/NCC1701-Prefix.pch.pth NCC1701/NCC1701-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv LANG en_US.US-ASCII    setenv PATH "/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-generated-files.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-own-target-headers.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-all-target-headers.hmap -iquote /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/NCC1701-project-headers.hmap -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/include -I/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/DerivedSources/i386 -I/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/NCC1701.build/Debug-iphonesimulator/NCC1701.build/DerivedSources -F/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-gvpyayjnaentaufyytfhcorsdjwk/NCC1701-Prefix.pch.dia -c /Users/ferrarialobestia/Desktop/pruebas/NCC1701/NCC1701/NCC1701-Prefix.pch -o /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-gvpyayjnaentaufyytfhcorsdjwk/NCC1701-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NCC1701-Prefix-gvpyayjnaentaufyytfhcorsdjwk/NCC1701-Prefix.pch.d36"1110875C-8FB5-46F0-9C7C-F32EC7955C03-
+
+CTouch /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app
+s369334230.726232
+e369334230.731743
+r1
+xTouch
+x/Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app98f6b9d69703b641^6d54bbd69703b641^---0#0#0#--406"Touch build/Debug-iphonesimulator/NCC1701.app    cd /Users/ferrarialobestia/Desktop/pruebas/NCC1701    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ferrarialobestia/Desktop/pruebas/NCC1701/build/Debug-iphonesimulator/NCC1701.app36"25535B50-C0EC-4BBB-AD18-BA7B9AE47591-
+
