@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1487" systemVersion="12B19" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Note" representedClassName="Note" syncable="YES">
+        <attribute name="creationDate" attributeType="Date" indexed="YES" syncable="YES"/>
+        <attribute name="photoData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="text" optional="YES" attributeType="String" defaultValueString="Lorem ipsum dolor" spotlightIndexingEnabled="YES" syncable="YES"/>
+        <attribute name="title" attributeType="String" defaultValueString="Una nota nueva" indexed="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Note" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>

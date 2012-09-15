@@ -1,0 +1,385 @@
+TEverpobre
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Info.plist" Everpobre/Everpobre-Info.plist
+cProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch.pth Everpobre/Everpobre-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDataModelVersionCompile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre.momd" "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Everpobre.xcdatamodeld"
+cCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUAppDelegate.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/main.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUNotesViewController.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/UIViewController+Navigation.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/UIViewController+Navigation.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note+Creation.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note+Creation.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre" normal i386
+cGenerateDSYMFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app.dSYM" "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre"
+cCopyStringsFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/en.lproj/InfoPlist.strings" Everpobre/en.lproj/InfoPlist.strings
+cTouch "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c0000000050283DC20000000000000110
+t1344814530
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004FD6582600000000002DEF20
+t1339447334
+s3010336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FD658260000000000244490
+t1339447334
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FD658270000000000353830
+t1339447335
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FD6582A0000000000905E40
+t1339447338
+s9461312
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUAppDelegate.h
+c000000005054493D000000000000026A
+t1347701053
+s618
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUAppDelegate.m
+c0000000050546737000000000000212B
+t1347708727
+s8491
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotasViewController.m
+c0000000050545ABD0000000000000E45
+t1347705533
+s3653
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.h
+c0000000050545B3C00000000000000F0
+t1347705660
+s240
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.m
+c0000000050545B3C0000000000000E45
+t1347705660
+s3653
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Everpobre-Prefix.pch
+c000000005054493D0000000000000163
+t1347701053
+s355
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Everpobre.xcdatamodeld
+c00000000505459E60000000000000088
+t1347705318
+s136
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note+Creation.h
+c000000005054609E00000000000000FC
+t1347707038
+s252
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note+Creation.m
+c000000005054601E00000000000001B9
+t1347706910
+s441
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note.h
+c000000005054586400000000000001B8
+t1347704932
+s440
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note.m
+c00000000505458640000000000000100
+t1347704932
+s256
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/UIViewController+Navigation.h
+c0000000050545DA90000000000000114
+t1347706281
+s276
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/UIViewController+Navigation.m
+c0000000050545E1500000000000001A9
+t1347706389
+s425
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/en.lproj/InfoPlist.strings
+c000000005054493D000000000000002D
+t1347701053
+s45
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/main.m
+c000000005054493D000000000000015A
+t1347701053
+s346
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app
+t1347708415
+s238
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app.dSYM
+t1347708415
+s102
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre
+t1347708415
+s41636
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre.momd
+t1347705318
+s170
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Info.plist
+t1347702420
+s803
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/PkgInfo
+t1347702420
+s8
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/en.lproj/InfoPlist.strings
+t1347702422
+s42
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUAppDelegate.o
+t1347708415
+s100500
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUNotasViewController.o
+t2
+s0
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUNotesViewController.o
+t1347705897
+s69256
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Everpobre.LinkFileList
+c00000000505464130000000000000418
+t1347707923
+s1048
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note+Creation.o
+t1347707923
+s9952
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note-2C7CB81FCE7E4185.o
+t2
+s0
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note-601F24A915B6C387.o
+t2
+s0
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note.o
+t1347705318
+s3112
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/UIViewController+Navigation.o
+t1347706488
+s65544
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/main.o
+t1347702421
+s3292
+
+N/var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch.pth
+t1347702420
+s4316392
+
+NEverpobre/Everpobre-Info.plist
+c000000005054493D0000000000000493
+t1347701053
+s1171
+
+CBuild AST from "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUAppDelegate.m"
+r0
+
+CBuild AST from "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotasViewController.m"
+r0
+
+CBuild AST from "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.m"
+r0
+
+CBuild AST from "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note+Creation.m"
+r0
+
+CBuild AST from "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note.m"
+r0
+
+CBuild AST from "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/UIViewController+Navigation.m"
+r0
+
+CBuild AST from "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc45d31ba9e04b641^d59731ba9e04b641^---0#1#0#--18"Check dependencies36"FE83CD77-BB10-4B18-9AE7-4DB6C4B1D1BC-
+
+CCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUAppDelegate.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369401530.215334
+e369401530.278655
+r1
+xCompileC
+xbuild/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUAppDelegate.o
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUAppDelegate.m6c4137ba9e04b641^695547ba9e04b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/AUAppDelegate.m0000000000000000^3976"CompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUAppDelegate.o Everpobre/AUAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator" -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch -MMD -MT dependencies -MF "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUAppDelegate.d" --serialize-diagnostics "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUAppDelegate.dia" -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUAppDelegate.m" -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUAppDelegate.o"36"86AFB328-1C7A-4473-9E15-6B44F70CB9D7-
+
+CCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUNotasViewController.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotasViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUNotesViewController.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369398697.437932
+e369398697.488756
+r1
+xCompileC
+xbuild/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUNotesViewController.o
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.m:53:2: warning: Potentially incomplete method implementation. [-W#warnings]
+o#warning Potentially incomplete method implementation.
+o ^
+o/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.m:60:2: warning: Incomplete method implementation. [-W#warnings]
+o#warning Incomplete method implementation.
+o ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.ma33f70a99304b641^001e7da99304b641^-488"/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.m:53:2: warning: Potentially incomplete method implementation. [-W#warnings]#warning Potentially incomplete method implementation. ^/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.m:60:2: warning: Incomplete method implementation. [-W#warnings]#warning Incomplete method implementation. ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@45"Potentially incomplete method implementation.-369398697#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@133"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/AUNotesViewController.m0000000000000000^52#1#52#1#1209#0#18"#warning Directive--2@33"Incomplete method implementation.-369398697#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@133"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/AUNotesViewController.m0000000000000000^59#1#59#1#1410#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@133"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/AUNotesViewController.m0000000000000000^4024"CompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUNotesViewController.o Everpobre/AUNotesViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator" -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch -MMD -MT dependencies -MF "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUNotesViewController.d" --serialize-diagnostics "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUNotesViewController.dia" -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/AUNotesViewController.m" -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/AUNotesViewController.o"36"8368FF80-6F85-4529-A127-5A6CA7713CEE-
+
+CCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note+Creation.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note+Creation.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369400723.343486
+e369400723.372949
+r1
+xCompileC
+xbuild/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note+Creation.o
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note+Creation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note+Creation.m365b59939b04b641^aa7c5f939b04b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/Note+Creation.m0000000000000000^3976"CompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note+Creation.o Everpobre/Note+Creation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator" -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch -MMD -MT dependencies -MF "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note+Creation.d" --serialize-diagnostics "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note+Creation.dia" -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note+Creation.m" -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note+Creation.o"36"9AA49AAD-5DE4-4B51-8B62-221CE6C2EF2F-
+
+CCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note-2C7CB81FCE7E4185.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note-601F24A915B6C387.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369398118.571552
+e369398118.594159
+r1
+xCompileC
+xbuild/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note.o
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note.m7e7092669104b641^e31998669104b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/Note.m0000000000000000^3922"CompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note.o Everpobre/Note.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator" -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch -MMD -MT dependencies -MF "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note.d" --serialize-diagnostics "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note.dia" -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Note.m" -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Note.o"36"83B1497C-D151-4677-B9EC-6C8089A34769-
+
+CCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/UIViewController+Navigation.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/UIViewController+Navigation.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369399288.660733
+e369399288.725278
+r1
+xCompileC
+xbuild/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/UIViewController+Navigation.o
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/UIViewController+Navigation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/UIViewController+Navigation.m7c43a9f89504b641^e2afb9f89504b641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/UIViewController+Navigation.m0000000000000000^4060"CompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/UIViewController+Navigation.o Everpobre/UIViewController+Navigation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator" -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch -MMD -MT dependencies -MF "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/UIViewController+Navigation.d" --serialize-diagnostics "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/UIViewController+Navigation.dia" -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/UIViewController+Navigation.m" -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/UIViewController+Navigation.o"36"496269AB-454B-4CBD-ACFA-E39F8BD453B3-
+
+CCompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/main.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369395220.995566
+e369395221.245459
+r1
+xCompileC
+xbuild/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/main.o
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/main.m4cfffe148604b641^62d73e158604b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/main.m0000000000000000^3922"CompileC build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/main.o Everpobre/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator" -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch -MMD -MT dependencies -MF "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/main.dia" -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/main.m" -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/main.o"36"1E4A1562-3777-43CE-809F-EAE7C526B624-
+
+CCopyStringsFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/en.lproj/InfoPlist.strings" Everpobre/en.lproj/InfoPlist.strings
+s369395222.931066
+e369395222.951417
+r1
+xCopyStringsFile
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/en.lproj/InfoPlist.strings
+xEverpobre/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Everpobre/en.lproj/InfoPlist.stringsa06cee168604b641^8690f3168604b641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/en.lproj/InfoPlist.strings0000000000000000^665"CopyStringsFile build/Debug-iphonesimulator/Everpobre.app/en.lproj/InfoPlist.strings Everpobre/en.lproj/InfoPlist.strings    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/en.lproj" -- Everpobre/en.lproj/InfoPlist.strings36"5874730B-3881-4B94-9A92-DC3F7D8F3AFB-
+
+CDataModelVersionCompile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre.momd" "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Everpobre.xcdatamodeld"
+s369398118.563236
+e369398118.700973
+r1
+xDataModelVersionCompile
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre.momd
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Everpobre.xcdatamodeld
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"DataModelVersionCompile build/Debug-iphonesimulator/Everpobre.app/Everpobre.momd Everpobre/Everpobre.xcdatamodeldb75d90669104b641^5072b3669104b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/Everpobre.xcdatamodeld/0000000000000000^1002"DataModelVersionCompile build/Debug-iphonesimulator/Everpobre.app/Everpobre.momd Everpobre/Everpobre.xcdatamodeld    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -XD_MOMC_IOS_TARGET_VERSION=5.1 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Everpobre.xcdatamodeld" "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre.momd"36"EF14DCB0-9F86-487E-BF43-3524796BB0CC-
+
+CGenerateDSYMFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app.dSYM" "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre"
+s369401530.317302
+e369401530.338285
+r1
+xGenerateDSYMFile
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app.dSYM
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Generating /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app.dSYMcb4c51ba9e04b641^429956ba9e04b641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app.dSYM/0000000000000000^760"GenerateDSYMFile build/Debug-iphonesimulator/Everpobre.app.dSYM build/Debug-iphonesimulator/Everpobre.app/Everpobre    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre" -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app.dSYM"36"E58A6A4B-BA4F-4007-8CE2-D57727132CC4-
+
+CLd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre" normal i386
+s369401530.285548
+e369401530.310410
+r1
+xLd
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobreb22b49ba9e04b641^4b774fba9e04b641^---0#0#0#--1420"Ld build/Debug-iphonesimulator/Everpobre.app/Everpobre normal i386    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator" -filelist "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Objects-normal/i386/Everpobre.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -framework CoreData -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Everpobre"36"FBE6C414-89E6-4DD8-AE7D-D77279A41C30-
+
+CProcessInfoPlistFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Info.plist" Everpobre/Everpobre-Info.plist
+s369395220.525235
+e369395220.529159
+r1
+xProcessInfoPlistFile
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Info.plist
+xEverpobre/Everpobre-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process Everpobre/Everpobre-Info.plist16be86148604b641^508987148604b641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/Everpobre-Info.plist0000000000000000^787"ProcessInfoPlistFile build/Debug-iphonesimulator/Everpobre.app/Info.plist Everpobre/Everpobre-Info.plist    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Everpobre/Everpobre-Info.plist -genpkginfo "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app/Info.plist"36"8187D4DE-C84C-49A4-8081-FDA5DDDCB75D-
+
+CProcessPCH /Users/ferrarialobestia/Library/Developer/Xcode/DerivedData/Everpobre-ezdexesjgewudpevkzedfrwzvafz/Index/PrecompiledHeaders/Everpobre-Prefix-eqvasfxfhiulgdeglixrktchlaak_ast/Everpobre-Prefix.pch.pth Everpobre/Everpobre-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch.pth Everpobre/Everpobre-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369395220.537323
+e369395220.989194
+r1
+xProcessPCH
+x/var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch.pth
+xEverpobre/Everpobre-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile Everpobre/Everpobre-Prefix.pchb7b589148604b641^363cfd148604b641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Everpobre/Everpobre/Everpobre-Prefix.pch0000000000000000^3857"ProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch.pth Everpobre/Everpobre-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/Everpobre-project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Everpobre.build/Debug-iphonesimulator/Everpobre.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator" --serialize-diagnostics /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch.dia -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/Everpobre/Everpobre-Prefix.pch" -o /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Everpobre-Prefix-arilkjywtjrtljdrnguglmqrcrwq/Everpobre-Prefix.pch.d36"E3E43B85-7D91-4C6E-A07F-A7C65A0F923F-
+
+CTouch "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app"
+s369401530.354548
+e369401530.360090
+r1
+xTouch
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Touch /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app07d15aba9e04b641^732f5cba9e04b641^---0#0#0#--474"Touch build/Debug-iphonesimulator/Everpobre.app    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Everpobre/build/Debug-iphonesimulator/Everpobre.app"36"5E4204F9-90C2-4061-82A0-B5459BEA6B44-
+
