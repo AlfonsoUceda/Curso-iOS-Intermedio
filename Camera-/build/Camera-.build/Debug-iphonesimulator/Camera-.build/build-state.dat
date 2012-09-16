@@ -1,0 +1,300 @@
+TCamera-
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Info.plist" Camera-/Camera--Info.plist
+cProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-hgfwifjmdihlssejjmabevrroexl/Camera--Prefix.pch.pth Camera-/Camera--Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUViewController.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/main.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUAppDelegate.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Camera-" normal i386
+cGenerateDSYMFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app.dSYM" "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Camera-"
+cCopyStringsFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/en.lproj/InfoPlist.strings" Camera-/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/en.lproj/AUViewController.xib"
+cTouch "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c0000000050283DC20000000000000110
+t1344814530
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FD658260000000000244490
+t1339447334
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FD658270000000000353830
+t1339447335
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FD6582A0000000000905E40
+t1339447338
+s9461312
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUAppDelegate.h
+c0000000050558DF30000000000000178
+t1347784179
+s376
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUAppDelegate.m
+c0000000050558DF3000000000000090F
+t1347784179
+s2319
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUViewController.h
+c000000005055967800000000000001B5
+t1347786360
+s437
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUViewController.m
+c000000005055974D00000000000006A2
+t1347786573
+s1698
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/Camera--Prefix.pch
+c0000000050558EBC0000000000000163
+t1347784380
+s355
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/en.lproj/AUViewController.xib
+c0000000050558EBE000000000000275F
+t1347784382
+s10079
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/en.lproj/InfoPlist.strings
+c0000000050558DF3000000000000002D
+t1347784179
+s45
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/main.m
+c0000000050558DF30000000000000158
+t1347784179
+s344
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUAppDelegate.o
+t1347786539
+s82712
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUViewController.o
+t1347786539
+s81224
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/Camera-.LinkFileList
+c0000000050558EF000000000000001F2
+t1347784432
+s498
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/main.o
+t1347786168
+s3280
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app
+t1347786540
+s204
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app.dSYM
+t1347786539
+s102
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Camera-
+t1347786539
+s34496
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Info.plist
+t1347786168
+s795
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/PkgInfo
+t1347786168
+s8
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/en.lproj/AUViewController.nib
+t1347786169
+s1670
+
+N/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/en.lproj/InfoPlist.strings
+t1347784433
+s42
+
+N/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000504A97620000000000228FD0
+t1347065698
+s2265040
+
+N/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000504A977000000000003DCEF0
+t1347065712
+s4050672
+
+N/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000504A979E0000000000AB3D60
+t1347065758
+s11222368
+
+N/var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-asfhnwcwyrjerghimmchcbspjpeg/Camera--Prefix.pch.pth
+t1347786049
+s4997776
+
+N/var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-ayuusfxgqboorkfogzhjpdvqiock/Camera--Prefix.pch.pth
+t2
+s0
+
+N/var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-hgfwifjmdihlssejjmabevrroexl/Camera--Prefix.pch.pth
+t1347784433
+s4233376
+
+NCamera-/Camera--Info.plist
+c0000000050558DF30000000000000493
+t1347784179
+s1171
+
+CBuild AST from "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUAppDelegate.m"
+r0
+
+CBuild AST from "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUViewController.m"
+r0
+
+CBuild AST from "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies28f238cece05b641^6e8839cece05b641^---0#1#0#--18"Check dependencies36"A5A6380A-3849-482B-9636-9A4D3E67B047-
+
+CCompileC build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUAppDelegate.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369479339.875235
+e369479339.937557
+r1
+xCompileC
+xbuild/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUAppDelegate.o
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUAppDelegate.mfd2ee0abce05b641^a356f0abce05b641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Camera-/Camera-/AUAppDelegate.m0000000000000000^3894"CompileC build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUAppDelegate.o Camera-/AUAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator" -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-hgfwifjmdihlssejjmabevrroexl/Camera--Prefix.pch -MMD -MT dependencies -MF "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUAppDelegate.d" --serialize-diagnostics "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUAppDelegate.dia" -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUAppDelegate.m" -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUAppDelegate.o"36"F8EC5A04-77AA-4305-9203-B402F5381FE2-
+
+CCompileC build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUViewController.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369479374.241579
+e369479374.297973
+r1
+xCompileC
+xbuild/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUViewController.o
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUViewController.m38f53dcece05b641^c3474ccece05b641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Camera-/Camera-/AUViewController.m0000000000000000^3912"CompileC build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUViewController.o Camera-/AUViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator" -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-hgfwifjmdihlssejjmabevrroexl/Camera--Prefix.pch -MMD -MT dependencies -MF "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUViewController.d" --serialize-diagnostics "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUViewController.dia" -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/AUViewController.m" -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/AUViewController.o"36"CF763381-AF2B-477B-BC63-F4EE0E136C5C-
+
+CCompileC build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/main.o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369478968.780623
+e369478968.850369
+r1
+xCompileC
+xbuild/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/main.o
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/main.mde03c838cd05b641^2acad938cd05b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Camera-/Camera-/main.m0000000000000000^3840"CompileC build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/main.o Camera-/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator" -include /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-hgfwifjmdihlssejjmabevrroexl/Camera--Prefix.pch -MMD -MT dependencies -MF "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/main.dia" -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/main.m" -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/main.o"36"E6BCC9EC-E6B5-4400-832D-7CAE03D1CF83-
+
+CCompileXIB "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/en.lproj/AUViewController.xib"
+s369478969.167327
+e369478969.192141
+r1
+xCompileXIB
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/en.lproj/AUViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compiling /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/en.lproj/AUViewController.xib53ea2a39cd05b641^40dc3139cd05b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Camera-/Camera-/en.lproj/AUViewController.xib0000000000000000^1037"CompileXIB Camera-/en.lproj/AUViewController.xib    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/en.lproj/AUViewController.nib" "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/en.lproj/AUViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"B811571C-BCD8-4E81-A2BF-F184FBB3F718-
+
+CCopyStringsFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/en.lproj/InfoPlist.strings" Camera-/en.lproj/InfoPlist.strings
+s369477233.634218
+e369477233.636777
+r1
+xCopyStringsFile
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/en.lproj/InfoPlist.strings
+xCamera-/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy Camera-/en.lproj/InfoPlist.stringsff75a271c605b641^0404a371c605b641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Camera-/Camera-/en.lproj/InfoPlist.strings0000000000000000^653"CopyStringsFile build/Debug-iphonesimulator/Camera-.app/en.lproj/InfoPlist.strings Camera-/en.lproj/InfoPlist.strings    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/en.lproj" -- Camera-/en.lproj/InfoPlist.strings36"4944C764-ED14-4753-BCCF-DF7188156276-
+
+CGenerateDSYMFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app.dSYM" "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Camera-"
+s369479374.335361
+e369479374.354901
+r1
+xGenerateDSYMFile
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app.dSYM
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Camera-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Generating /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app.dSYM18ed55cece05b641^77da5acece05b641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Camera-/build/Debug-iphonesimulator/Camera-.app.dSYM/0000000000000000^742"GenerateDSYMFile build/Debug-iphonesimulator/Camera-.app.dSYM build/Debug-iphonesimulator/Camera-.app/Camera-    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Camera-" -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app.dSYM"36"86331CA2-D7A7-49C7-ADFA-6E3DD0F72B5F-
+
+CLd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Camera-" normal i386
+s369479374.304913
+e369479374.328439
+r1
+xLd
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Camera-
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Camera-9e234ecece05b641^1f1454cece05b641^---0#0#0#--1376"Ld build/Debug-iphonesimulator/Camera-.app/Camera- normal i386    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator" -filelist "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Objects-normal/i386/Camera-.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Camera-"36"FC01BB1D-4B60-4939-ADED-516160121D2C-
+
+CProcessInfoPlistFile "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Info.plist" Camera-/Camera--Info.plist
+s369478968.759677
+e369478968.765477
+r1
+xProcessInfoPlistFile
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Info.plist
+xCamera-/Camera--Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process Camera-/Camera--Info.plist9292c238cd05b641^25cfc538cd05b641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Camera-/Camera-/Camera--Info.plist0000000000000000^767"ProcessInfoPlistFile build/Debug-iphonesimulator/Camera-.app/Info.plist Camera-/Camera--Info.plist    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Camera-/Camera--Info.plist -genpkginfo "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app/Info.plist"36"F2B7BF49-A797-48AA-91F4-F23470A1B61A-
+
+CProcessPCH /Users/ferrarialobestia/Library/Developer/Xcode/DerivedData/Camera--gimriqttcouiukcuojcgskptdkup/Index/PrecompiledHeaders/Camera--Prefix-awgzmohhuymqpzgklsnfrfilvyik_ast/Camera--Prefix.pch.pth Camera-/Camera--Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ferrarialobestia/Library/Developer/Xcode/DerivedData/Camera--gimriqttcouiukcuojcgskptdkup/Index/PrecompiledHeaders/Camera--Prefix-birsefsmfpebfgavwbsvbcatoeog_ast/Camera--Prefix.pch.pth Camera-/Camera--Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ferrarialobestia/Library/Developer/Xcode/DerivedData/Camera--gimriqttcouiukcuojcgskptdkup/Index/PrecompiledHeaders/Camera--Prefix-gipfekafazpzqpaggqsqdscavxgx_ast/Camera--Prefix.pch.pth Camera-/Camera--Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-asfhnwcwyrjerghimmchcbspjpeg/Camera--Prefix.pch.pth Camera-/Camera--Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369478849.067016
+e369478849.949698
+r1
+xProcessPCH
+x/var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-asfhnwcwyrjerghimmchcbspjpeg/Camera--Prefix.pch.pth
+xCamera-/Camera--Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Camera-/Camera--Prefix.pch1b4611c1cc05b641^1d21f3c1cc05b641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Camera-/Camera-/Camera--Prefix.pch0000000000000000^4070"ProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-asfhnwcwyrjerghimmchcbspjpeg/Camera--Prefix.pch.pth Camera-/Camera--Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-"    setenv LANG en_US.US-ASCII    setenv PATH "/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/include" -I/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ferrarialobestia/Desktop/XcodeGM.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator" --serialize-diagnostics /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-asfhnwcwyrjerghimmchcbspjpeg/Camera--Prefix.pch.dia -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/Camera--Prefix.pch" -o /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-asfhnwcwyrjerghimmchcbspjpeg/Camera--Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-asfhnwcwyrjerghimmchcbspjpeg/Camera--Prefix.pch.d36"274006B0-627D-4058-8906-3FB41FC84099-
+
+CProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-ayuusfxgqboorkfogzhjpdvqiock/Camera--Prefix.pch.pth Camera-/Camera--Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-hgfwifjmdihlssejjmabevrroexl/Camera--Prefix.pch.pth Camera-/Camera--Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369477232.761386
+e369477233.060043
+r1
+xProcessPCH
+x/var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-hgfwifjmdihlssejjmabevrroexl/Camera--Prefix.pch.pth
+xCamera-/Camera--Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Camera-/Camera--Prefix.pch8714c370c605b641^6b600f71c605b641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/ferrarialobestia/Desktop/Curso%20iOS%20Intermedio/Ejemplos%20curso/Camera-/Camera-/Camera--Prefix.pch0000000000000000^3781"ProcessPCH /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-hgfwifjmdihlssejjmabevrroexl/Camera--Prefix.pch.pth Camera-/Camera--Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--generated-files.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--own-target-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--all-target-headers.hmap" -iquote "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/Camera--project-headers.hmap" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/DerivedSources/i386" "-I/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Camera-.build/Debug-iphonesimulator/Camera-.build/DerivedSources" "-F/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator" --serialize-diagnostics /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-hgfwifjmdihlssejjmabevrroexl/Camera--Prefix.pch.dia -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/Camera-/Camera--Prefix.pch" -o /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-hgfwifjmdihlssejjmabevrroexl/Camera--Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/r3/hy_h87292lb5kf4f501v9b800000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera--Prefix-hgfwifjmdihlssejjmabevrroexl/Camera--Prefix.pch.d36"23F58D55-34FA-4384-9997-3BF88E8C45E7-
+
+CTouch "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app"
+s369479374.370631
+e369479374.376128
+r1
+xTouch
+x/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Touch /Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app4eef5ecece05b641^a54a60cece05b641^---0#0#0#--466"Touch build/Debug-iphonesimulator/Camera-.app    cd "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/ferrarialobestia/Desktop/Curso iOS Intermedio/Ejemplos curso/Camera-/build/Debug-iphonesimulator/Camera-.app"36"86EB4E59-3B56-451C-81A9-56F528CF3EF4-
+

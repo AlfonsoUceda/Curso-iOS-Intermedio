@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A078A9711605D443006463A3 /* AUNoteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A078A96F1605D443006463A3 /* AUNoteViewController.m */; };
+		A078A9721605D443006463A3 /* AUNoteViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A078A9701605D443006463A3 /* AUNoteViewController.xib */; };
 		A0E92D78160480BD006BE34F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0E92D77160480BD006BE34F /* UIKit.framework */; };
 		A0E92D7A160480BD006BE34F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0E92D79160480BD006BE34F /* Foundation.framework */; };
 		A0E92D7C160480BD006BE34F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0E92D7B160480BD006BE34F /* CoreGraphics.framework */; };
@@ -20,9 +22,15 @@
 		A0E92DA5160494D3006BE34F /* UIViewController+Navigation.m in Sources */ = {isa = PBXBuildFile; fileRef = A0E92DA4160494D3006BE34F /* UIViewController+Navigation.m */; };
 		A0E92DA9160496B0006BE34F /* Note+Creation.m in Sources */ = {isa = PBXBuildFile; fileRef = A0E92DA8160496B0006BE34F /* Note+Creation.m */; };
 		A0E92DAC1604B9FC006BE34F /* CoreDataTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0E92DAB1604B9FC006BE34F /* CoreDataTableViewController.m */; };
+		A0F92C231605EF9200DFAAEC /* AUPhotoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0F92C211605EF9200DFAAEC /* AUPhotoViewController.m */; };
+		A0F92C241605EF9200DFAAEC /* AUPhotoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A0F92C221605EF9200DFAAEC /* AUPhotoViewController.xib */; };
+		A0F92C271605F39900DFAAEC /* photo_placeholder.png in Resources */ = {isa = PBXBuildFile; fileRef = A0F92C261605F39900DFAAEC /* photo_placeholder.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A078A96E1605D443006463A3 /* AUNoteViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AUNoteViewController.h; sourceTree = "<group>"; };
+		A078A96F1605D443006463A3 /* AUNoteViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AUNoteViewController.m; sourceTree = "<group>"; };
+		A078A9701605D443006463A3 /* AUNoteViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AUNoteViewController.xib; sourceTree = "<group>"; };
 		A0E92D73160480BD006BE34F /* Everpobre.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Everpobre.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0E92D77160480BD006BE34F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A0E92D79160480BD006BE34F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -45,6 +53,10 @@
 		A0E92DA8160496B0006BE34F /* Note+Creation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Note+Creation.m"; sourceTree = "<group>"; };
 		A0E92DAA1604B9FC006BE34F /* CoreDataTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreDataTableViewController.h; sourceTree = "<group>"; };
 		A0E92DAB1604B9FC006BE34F /* CoreDataTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoreDataTableViewController.m; sourceTree = "<group>"; };
+		A0F92C201605EF9200DFAAEC /* AUPhotoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AUPhotoViewController.h; sourceTree = "<group>"; };
+		A0F92C211605EF9200DFAAEC /* AUPhotoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AUPhotoViewController.m; sourceTree = "<group>"; };
+		A0F92C221605EF9200DFAAEC /* AUPhotoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AUPhotoViewController.xib; sourceTree = "<group>"; };
+		A0F92C261605F39900DFAAEC /* photo_placeholder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo_placeholder.png; sourceTree = "<group>"; };
 		A0FEC1031604E394000E568C /* Settings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Settings.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -108,6 +120,7 @@
 		A0E92D80160480BD006BE34F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A0F92C261605F39900DFAAEC /* photo_placeholder.png */,
 				A0E92D81160480BD006BE34F /* Everpobre-Info.plist */,
 				A0E92D82160480BD006BE34F /* InfoPlist.strings */,
 				A0E92D85160480BD006BE34F /* main.m */,
@@ -144,6 +157,12 @@
 				A0E92DA11604923D006BE34F /* AUNotesViewController.m */,
 				A0E92DAA1604B9FC006BE34F /* CoreDataTableViewController.h */,
 				A0E92DAB1604B9FC006BE34F /* CoreDataTableViewController.m */,
+				A078A96E1605D443006463A3 /* AUNoteViewController.h */,
+				A078A96F1605D443006463A3 /* AUNoteViewController.m */,
+				A078A9701605D443006463A3 /* AUNoteViewController.xib */,
+				A0F92C201605EF9200DFAAEC /* AUPhotoViewController.h */,
+				A0F92C211605EF9200DFAAEC /* AUPhotoViewController.m */,
+				A0F92C221605EF9200DFAAEC /* AUPhotoViewController.xib */,
 			);
 			name = viewControllers;
 			sourceTree = "<group>";
@@ -201,6 +220,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0E92D84160480BD006BE34F /* InfoPlist.strings in Resources */,
+				A078A9721605D443006463A3 /* AUNoteViewController.xib in Resources */,
+				A0F92C241605EF9200DFAAEC /* AUPhotoViewController.xib in Resources */,
+				A0F92C271605F39900DFAAEC /* photo_placeholder.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,6 +241,8 @@
 				A0E92DA5160494D3006BE34F /* UIViewController+Navigation.m in Sources */,
 				A0E92DA9160496B0006BE34F /* Note+Creation.m in Sources */,
 				A0E92DAC1604B9FC006BE34F /* CoreDataTableViewController.m in Sources */,
+				A078A9711605D443006463A3 /* AUNoteViewController.m in Sources */,
+				A0F92C231605EF9200DFAAEC /* AUPhotoViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

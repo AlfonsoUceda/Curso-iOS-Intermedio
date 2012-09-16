@@ -9,6 +9,7 @@
 #import "AUNotesViewController.h"
 #import "Note.h"
 #import "Note+Creation.h"
+#import "AUNoteViewController.h"
 
 @interface AUNotesViewController ()
 @property (strong) NSManagedObjectContext *context;
@@ -121,6 +122,10 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    Note *note = [self.fetchedResultsController objectAtIndexPath:indexPath];
+    
+    AUNoteViewController *noteCV = [[AUNoteViewController alloc] initWithModel:note];
+    [self.navigationController pushViewController:noteCV animated:YES];
 }
 
 @end

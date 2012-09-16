@@ -6,8 +6,14 @@
         <attribute name="photoData" optional="YES" attributeType="Binary" syncable="YES"/>
         <attribute name="text" optional="YES" attributeType="String" defaultValueString="Lorem ipsum dolor" spotlightIndexingEnabled="YES" syncable="YES"/>
         <attribute name="title" attributeType="String" defaultValueString="Una nota nueva" indexed="YES" syncable="YES"/>
+        <relationship name="notebook" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Notebook" inverseName="notes" inverseEntity="Notebook" syncable="YES"/>
+    </entity>
+    <entity name="Notebook" syncable="YES">
+        <attribute name="name" attributeType="String" indexed="YES" syncable="YES"/>
+        <relationship name="notes" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Note" inverseName="notebook" inverseEntity="Note" syncable="YES"/>
     </entity>
     <elements>
-        <element name="Note" positionX="-36" positionY="0" width="128" height="120"/>
+        <element name="Note" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Notebook" positionX="0" positionY="0" width="0" height="0"/>
     </elements>
 </model>
