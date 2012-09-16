@@ -66,17 +66,24 @@
 }
 
 - (IBAction)trashPhoto:(id)sender {
+    
+    CGRect oldRect = self.photoView.bounds;
+    
     [UIView animateWithDuration:1 delay:0 options:0 animations:^{
         // Quitarle el alpha
         self.photoView.alpha = 0.0;
+//        self.photoView.transform = CGAffineTransformMakeScale(0.1, 0.1);
+        self.photoView.bounds = CGRectZero;
     } completion:^(BOOL finished){
         
         // Quito la image
         self.photoView.image = [UIImage imageNamed:@"photo_placeholder.png"];
         self.model.photoData = nil;
+//        self.photoView.transform = CGAffineTransformIdentity;
         
         // Al terminar vuelvo a ponersela
         self.photoView.alpha = 1.0;
+        self.photoView.bounds = oldRect;
     }];
 }
 

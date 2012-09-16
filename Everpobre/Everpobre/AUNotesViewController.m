@@ -95,7 +95,7 @@
     {
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:CellIdentifier];
     }
-        
+    
     cell.textLabel.text = note.title;
     NSLocale *esLocale = [[NSLocale alloc] initWithLocaleIdentifier:@"es"];
     
@@ -128,4 +128,7 @@
     [self.navigationController pushViewController:noteCV animated:YES];
 }
 
+- (void)viewDidUnload {
+    [super viewDidUnload];
+}
 @end
